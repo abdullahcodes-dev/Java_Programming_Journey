@@ -5,7 +5,7 @@ Problem: Java Stdin and Stdout I
 Difficulty: Easy
 Concepts: Input, Output, Scanner
 Day: 2
-Date: 20 / 03/ 2026
+Date: 20 / 03 / 2026
 */
 
 import java.util.Scanner;
