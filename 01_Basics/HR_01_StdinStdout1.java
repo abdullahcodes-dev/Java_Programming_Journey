@@ -4,7 +4,8 @@ Track: Java - Introduction
 Problem: Java Stdin and Stdout I
 Difficulty: Easy
 Concepts: Input, Output, Scanner
-Date: 27-02-2026
+Day: 2
+Date: 20 / 03/ 2026
 */
 
 import java.util.Scanner;
