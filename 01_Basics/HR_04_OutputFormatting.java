@@ -4,7 +4,7 @@ Track: Java - Introduction
 Problem: Java Output Formatting
 Difficulty: Easy
 Concepts: printf, Formatting, Strings
-Date: 27-02-2026
+Date: 24 / 03 / 2026
 */
 
 import java.util.Scanner;
