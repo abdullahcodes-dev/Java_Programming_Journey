@@ -65,5 +65,7 @@ public class NumberGuessingGame {
                 System.out.println("Number of attempts: " + attempts);
             }
         } while (guess != randomNumber);
+
+        input.close();
     }
 }
