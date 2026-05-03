@@ -12,8 +12,9 @@ This repository documents my progress as I practice coding consistently and buil
 
 ## Structure
 
-- 01_Basics → Beginner-level problems
+- 01_Basics → Beginner-level problems (Hackerrank)
 - 02_Projects → Small projects (added gradually)
+- 03_Fundamentals → Structured problem solving covering all programming concepts
 
 ## Goal
 
