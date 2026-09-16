@@ -21,7 +21,7 @@ public class Student {
     public static void main(String[] args) {
         Student s1 = new Student();
         s1.name = "Muhammad Abdullah";
-        s1.rollNo = "SP26-BCS-056";
+        s1.rollNo = "111";
         s1.marks = 92.5;
         s1.grade = grade(s1.marks);
 
